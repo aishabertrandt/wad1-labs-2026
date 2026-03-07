@@ -12,6 +12,7 @@
   ],
   "author": "Aisha Bertrandt",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "CA1",
   "type": "module",
   "dependencies": {
@@ -20,6 +21,12 @@
     "lowdb": "^7.0.1",
     "npm": "^11.6.0",
     "start": "^5.1.0",
+=======
+  "description": "A little playlist maker",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+>>>>>>> 8042c1b603b3db38a7273c3cd9075d9adefcfe58
     "winston": "^3.19.0"
   },
   "devDependencies": {
